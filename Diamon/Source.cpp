@@ -1,6 +1,7 @@
+#define _CRT_SECURE_NO_WARNINGS
 #include<stdio.h>
 #include<cstdlib>
-#define _CRT_SECURE_NO_WARNINGS
+
 /*
 	Create a diamond .
 	It has a diagonal size equal to 2*n-1.
