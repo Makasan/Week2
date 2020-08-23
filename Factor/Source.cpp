@@ -1,5 +1,5 @@
-#include<stdio.h>
 #define _CRT_SECURE_NO_WARNINGS
+#include<stdio.h>
 /*
 	Find the factor of 1 number.
 
@@ -14,7 +14,7 @@
 
  Output : 2 x 2 x 3 x 5 x 5 x 5 x 43
 */
-main() {
+int main() {
 	int factor, i;
 	scanf("%d", &factor);
 	if (factor > 0)
