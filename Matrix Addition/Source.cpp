@@ -1,9 +1,9 @@
-#include <stdio.h>
 #define _CRT_SECURE_NO_WARNINGS
+#include <stdio.h>
 /*
 	https://www.programming.in.th/task/rev2_problem.php?pid=0003
 */
-main()
+int main()
 {
 	long m, n;
 	scanf("%d %d", &m, &n);
